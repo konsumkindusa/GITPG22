@@ -59,11 +59,6 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>true</enableFeeds>
     <externalSharingModel>Private</externalSharingModel>
-    <fields>
-        <fullName>ManagerId</fullName>
-        <trackFeedHistory>true</trackFeedHistory>
-        <type>Hierarchy</type>
-    </fields>
     <listViews>
         <fullName>ActiveUsers</fullName>
         <filterScope>Everything</filterScope>

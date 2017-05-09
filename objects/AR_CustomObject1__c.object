@@ -51,26 +51,6 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>AR_CustomField1__c</fullName>
-        <externalId>false</externalId>
-        <label>AR-CustomField1</label>
-        <length>30</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>AR_Custom_Field3__c</fullName>
-        <externalId>false</externalId>
-        <label>AR-Custom Field3</label>
-        <length>30</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
     <label>AR-CustomObject1</label>
     <nameField>
         <label>AR-CustomObject1 Name</label>
