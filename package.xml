@@ -86,6 +86,7 @@
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
         <members>Quantcast__c.Quantcast_Picklist__c</members>
+        <members>Quantcast__c.autonumTest__c</members>
         <members>TestObj__c.test__c</members>
         <name>CustomField</name>
     </types>

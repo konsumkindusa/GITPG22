@@ -63,6 +63,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Quantcast__c.autonumTest__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>TestObj__c.test__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -71,6 +76,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestObj__c-TestObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Quantcast__c-Quantcast Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>false</allowCreate>

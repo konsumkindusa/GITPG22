@@ -90,6 +90,13 @@
             </valueSetDefinition>
         </valueSet>
     </fields>
+    <fields>
+        <fullName>autonumTest__c</fullName>
+        <externalId>true</externalId>
+        <label>autonumTest</label>
+        <trackTrending>false</trackTrending>
+        <type>AutoNumber</type>
+    </fields>
     <label>Quantcast</label>
     <nameField>
         <label>Quantcast Name</label>
