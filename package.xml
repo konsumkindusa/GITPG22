@@ -5,6 +5,11 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Quantcast_CodeanalysisCls</members>
+        <members>Quantcast_CodeanalysisCls_Test</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>AppSwitcher</members>
         <members>Salesforce1</members>
         <name>AppMenu</name>
@@ -80,6 +85,8 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
+        <members>Quantcast__c.Quantcast_Picklist__c</members>
+        <members>TestObj__c.test__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -131,6 +138,7 @@
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
+        <members>Quantcast__c</members>
         <members>Site</members>
         <members>SocialPersona</members>
         <members>Solution</members>
@@ -202,6 +210,7 @@
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
+        <members>Quantcast__c-Quantcast Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
         <members>User-User Layout</members>
