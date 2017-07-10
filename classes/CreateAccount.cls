@@ -1,6 +1,6 @@
 public Class CreateAccount
 {
-//For Playground
+//For Demo
  public Account CreateRecord(String name) 
  { 
   Account acc = new Account(); 

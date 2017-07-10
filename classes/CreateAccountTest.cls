@@ -1,7 +1,7 @@
 @istest 
 public class CreateAccountTest
 { 
- //For Playground
+ //For Demo
  static testmethod void CreateAccTest()
  { 
  CreateAccount acc = new CreateAccount(); 
