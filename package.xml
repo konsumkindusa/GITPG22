@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>41.0</version>
     <types>
         <members>ARApexClass1</members>
         <name>ApexClass</name>
@@ -55,9 +56,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>AR_CustomObject1__c.AR_CustomField1__c</members>
-        <members>AR_CustomObject1__c.AR_Custom_Field3__c</members>
-        <members>Account.AR_Custom_Field3_Accounts__c</members>
+        <members>AR_Test__c.Test_Picklist__c</members>
         <members>Account.Active__c</members>
         <members>Account.AutorabitExtId__c</members>
         <members>Account.CustomerPriority__c</members>
@@ -99,6 +98,8 @@
     </types>
     <types>
         <members>AR_CustomObject1__c</members>
+        <members>AR_CustomObject_Demo__c</members>
+        <members>AR_Test__c</members>
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
@@ -170,7 +171,8 @@
     </types>
     <types>
         <members>AR_CustomObject1__c-AR-CustomObject1 Layout</members>
-        <members>AR_CustomObject1__c-AR-Layout1</members>
+        <members>AR_CustomObject_Demo__c-AR-CustomObject-Demo Layout</members>
+        <members>AR_Test__c-AR Test Layout</members>
         <members>Account-Account %28Marketing%29 Layout</members>
         <members>Account-Account %28Sales%29 Layout</members>
         <members>Account-Account %28Support%29 Layout</members>
@@ -355,6 +357,7 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>AR_Test__c.test_record_type</members>
         <members>Metric.Completion</members>
         <members>Metric.Progress</members>
         <name>RecordType</name>
@@ -460,6 +463,10 @@
         <members>WorkOrderPriority</members>
         <members>WorkOrderStatus</members>
         <name>StandardValueSet</name>
+    </types>
+    <types>
+        <members>AR_Test__c.Test_Rule</members>
+        <name>ValidationRule</name>
     </types>
     <types>
         <members>Account.Billing</members>
