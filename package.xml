@@ -85,6 +85,8 @@
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
         <members>Quantcast__c.Quantcast_Picklist__c</members>
+        <members>Quantcast__c.autonumTest__c</members>
+        <members>SherwinWilliamsTestObj__c.SherwinWilliamsTestFld__c</members>
         <members>TestObj__c.test__c</members>
         <name>CustomField</name>
     </types>
@@ -140,6 +142,7 @@
         <members>PricebookEntry</members>
         <members>Product2</members>
         <members>Quantcast__c</members>
+        <members>SherwinWilliamsTestObj__c</members>
         <members>Site</members>
         <members>SocialPersona</members>
         <members>Solution</members>
@@ -213,6 +216,7 @@
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
         <members>Quantcast__c-Quantcast Layout</members>
+        <members>SherwinWilliamsTestObj__c-SherwinWilliamsTestObj Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
         <members>User-User Layout</members>
