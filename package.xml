@@ -92,6 +92,7 @@
         <members>Quantcast__c.autonumTest__c</members>
         <members>SherwinWilliamsTestObj__c.SherwinWilliamsTestFld__c</members>
         <members>TestObj__c.test__c</members>
+        <members>sherwin2__c.sherwinfld__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -147,6 +148,7 @@
         <members>TestObj__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
+        <members>sherwin2__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -237,6 +239,7 @@
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+        <members>sherwin2__c-sherwin2 Layout</members>
         <name>Layout</name>
     </types>
     <types>
